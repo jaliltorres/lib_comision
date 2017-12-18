@@ -1,0 +1,17 @@
+{
+    "name": "jalil/libreria-comision",
+    "description": "Calcula comision por organizador o evento",
+    "authors": [
+        {
+            "name": "jalil",
+            "email": "jalitopi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "lib\\comision\\": "src/"
+      }
+    }
+}
